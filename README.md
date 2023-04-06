@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🤍Ana Clara Romero 
 👻 Estou aqui para aprender 
-
 💬 Atualmente curso informática para internet 👩‍💻
