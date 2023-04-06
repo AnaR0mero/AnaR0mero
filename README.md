@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->🤍Ana Clara Romero 
+
 👻 Estou aqui para aprender 
+
 💬 Atualmente curso informática para internet 👩‍💻
