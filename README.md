@@ -1,4 +1,4 @@
-### Hi there 👋
+### ANA CLARA ROMERO👋
 
 <!--
 **AnaR0mero/AnaR0mero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->🤍Ana Clara Romero 
+-->
 
  👩‍💻 Sou Ana Clara Romero, estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville. Natural de São Paulo, sou apaixonada por tecnologia e adoro explorar novas linguagens e conceitos de programação.
 Aqui no GitHub, compartilho meus projetos e aprendizados enquanto aprimoro minhas habilidades. Sempre em busca de novos desafios e oportunidades para crescer no mundo da tecnologia! 🚀
