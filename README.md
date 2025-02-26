@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->🤍Ana Clara Romero 
 
-👻 Estou aqui para aprender 
+ 👩‍💻 Sou Ana Clara Romero, estudante de Análise e Desenvolvimento de Sistemas na UNIP Alphaville. Natural de São Paulo, sou apaixonada por tecnologia e adoro explorar novas linguagens e conceitos de programação.
+Aqui no GitHub, compartilho meus projetos e aprendizados enquanto aprimoro minhas habilidades. Sempre em busca de novos desafios e oportunidades para crescer no mundo da tecnologia! 🚀
 
-💬 Atualmente curso informática para internet 👩‍💻
+Vamos conectar? 😊
+
+
